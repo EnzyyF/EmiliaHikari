@@ -4,11 +4,7 @@ __lang__ = "🇮🇩 Indonesia"
 id = {
 # main stuff
 	"start_text": """
-Hai {}, nama saya {}! Saya seorang manajer grup yang dikelola oleh [master saya ini](tg://user?id={}).
-Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [Ayra's Bot News](https://t.me/AyraBotNews)
-
-Ada masalah atau butuh bantuan lebih?
-Gabung grup [Emilia Official Support](https://t.me/EmiliaOfficial)!
+Hai {}, nama saya {}! Saya seorang manajer grup yang dikelola oleh [Tuan saya](t.me/GoodayFreeze).
 
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
@@ -16,7 +12,7 @@ Jika Anda menikmati menggunakan saya, dan/atau ingin membantu saya bertahan hidu
 mendanai/meningkatkan VPS saya!
 """,
 	"help_text": """
-Hai! Nama saya adalah *Emilia*.
+Hai! Nama saya adalah *Seraphine*.
 Saya adalah bot manajemen grup dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa saya bantu.
 
@@ -35,18 +31,18 @@ All commands can either be used with / or !.
 Dan berikut ini:
 """,
 	"donate_text": """Hai, senang mendengar Anda ingin menyumbang!
-Butuh banyak pekerjaan untuk [pencipta saya](tg://user?id=388576209) untuk membawa saya ke tempat saya sekarang, dan \
+Butuh banyak pekerjaan untuk [pencipta saya](tg://user?id=681335505) untuk membawa saya ke tempat saya sekarang, dan \
 setiap sumbangan membantu dan memotivasi dia untuk membuat saya lebih baik.
 
 Semua uang sumbangan akan diberikan ke VPS yang lebih baik untuk menjadi tuan rumah saya, dan atau beberapa makanan. \
 Dia hanya orang biasa, jadi akan sangat membantu dia!
 
-Jika anda memang berminat untuk donate, silahkan kunjungi ayrahikari.github.io/donations.html, Terima kasih 😁""",
+Jika anda memang berminat untuk donate, silahkan kunjungi [tuan saya](t.me/GoodayFreeze), Terima kasih 😁""",
 	
 # Help modules
-	"language_help": """Tidak semua grup berbicara bahasa Indonesia; beberapa grup lebih suka Emilia menanggapi dalam bahasa mereka sendiri.
+	"language_help": """Tidak semua grup berbicara bahasa Indonesia; beberapa grup lebih suka Seraphine menanggapi dalam bahasa mereka sendiri.
 
-Di sinilah terjemahan masuk; Anda dapat mengubah sebagian besar balasan Emilia menjadi bahasa pilihan Anda!
+Di sinilah terjemahan masuk; Anda dapat mengubah sebagian besar balasan Seraphine menjadi bahasa pilihan Anda!
 
 Bahasa yang tersedia adalah:
 - 🇮🇩 Indonesia
